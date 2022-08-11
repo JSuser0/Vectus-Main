@@ -1,1 +1,3 @@
+local configs = { };
 
+return configs = { };
